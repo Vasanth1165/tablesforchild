@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:sizer/sizer.dart';
 
-import '../models/table_provider.dart';
+import '../provider/table_provider.dart';
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key});
   @override

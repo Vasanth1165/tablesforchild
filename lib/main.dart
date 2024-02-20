@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
 import 'package:provider/provider.dart';
-import 'package:tablesforchild/models/table_provider.dart';
+import 'package:tablesforchild/provider/table_provider.dart';
 import 'Screens/table_page.dart';
 
 void main() {
